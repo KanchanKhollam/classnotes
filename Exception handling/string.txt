@@ -1,0 +1,5 @@
+String : 27/12/2022
+Every thing in java is executing from Right to left.
+heap area mdhe duplicate object same navache allowed astat . 
+
+String constant pool mdhe allowed nsta .
