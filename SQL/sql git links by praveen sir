@@ -1,0 +1,27 @@
+https://github.com/BhoslePraveen/SQL
+
+https://github.com/BhoslePraveen/JDBC
+
+
+If we want to check how many branches are available in a project 
+-$ git branch ---> This will show the list of all branches avialabe in the project.
+
+if we want to create a branch 
+-$ git branch branch_name.
+
+if we want to go into our branch 
+-$ git checkout branch_name.
+-$ git switch branch_name.
+
+if we want to change the name of branch 
+case1: we are in the same branch 
+-$ git branch -m new_branch_name.
+
+case2: if we are in the another branch 
+-$ git branch -m old_branch_name new_branch_name
+
+if we want to delete the branch 
+Note : We should checkout other branch then only we can delete our branch.
+-$ git branch -d branch_name.
+To save changes
+Press ecs then type :wq and hit enter
